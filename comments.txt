@@ -3,5 +3,5 @@ A few comments for the myrepo repository
 Created using notepad
 
 Now editing to see the changes in the staging area
-
-repo1
+change made in repo2
+change made in repo2
